@@ -42,7 +42,7 @@ rest of the navbar -->
       <?php } else {?>
       <!-- Link to let the user login if they are not currently logged in -->
       <li class="nav-item">
-        <a class="nav-link" href="Login">Login</a>
+        <a class="nav-link" href="Login">Login </a>
       </li>
       <?php }?>
     </ul>
